@@ -3,8 +3,6 @@
 /**
  * main - Entry point
  *
- * Description: using the main function
- * this program prints "The size of various types on the computer it is compiled and run on
  * Return: 0
  */
 int main(void)
