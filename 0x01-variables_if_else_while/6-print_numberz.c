@@ -9,11 +9,11 @@
  */
 int main(void)
 {
-	init i;
+	int i;
 
-	for (i = 48; i <= 57; i++)
-		putchar(i);
-	putchar('\n');
+	for (i = 0; i < 10; i++)
+		ptintf("%d", i);
+	printf('\n');
 
 	return (0);
 }
